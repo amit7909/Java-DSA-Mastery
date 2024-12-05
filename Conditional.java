@@ -1,9 +1,9 @@
 import java.util.*;
 public class Conditional {
     public static void main(String []args){
-        Scanner sc = new Scanner(System.in);
+        Scanner sc= new Scanner(System.in);
 
-        /*boolean sheAgreed = false;
+        boolean sheAgreed = false;
         if(sheAgreed){
             System.out.println("maje hi maje");
         }
@@ -35,9 +35,9 @@ public class Conditional {
                 System.out.println("not recognise");
                 break;
                 
-        }*/
+        }
         //While loop 
-        /*int counter =  0;
+        int counter =  0;
         while (counter<25) {
             System.out.println("Hello Guy's");
             counter++;
@@ -47,28 +47,5 @@ public class Conditional {
            System.out.print(a); 
            a++;
         }
-           */
-          /*print n numbers 
-        int a = sc.nextInt();
-        int b=0;
-        while (b<= a) {
-            System.out.println(b);
-            b++;
-        }
-        //print sum of n natural number
-        int n = sc.nextInt();
-        int sum =0;
-        int i = 1;
-        while (i<=n) {
-            sum += i;
-            i++;
-        }
-        System.out.println(sum);
-         
-        //FOR LOOP LEARNING
-        //PRINT N numbers using for loop and take input from u*/
-            // print stars
-
-    } 
-
-}
+    }    
+}    
