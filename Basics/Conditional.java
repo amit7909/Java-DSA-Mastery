@@ -1,7 +1,7 @@
 import java.util.*;
 public class Conditional {
     public static void main(String []args){
-        Scanner sc= new Scanner(System.in);
+        Scanner Sc= new Scanner(System.in);
 
         boolean sheAgreed = false;
         if(sheAgreed){
