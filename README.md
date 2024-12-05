@@ -1,11 +1,25 @@
 # Java DSA Journey 🚀
-Welcome to my Java with DSA repository! This project showcases my learning journey with Java and its application in solving Data Structures and Algorithms (DSA).
 
-## 📂 Repository Structure
-- **Basics**: Core Java concepts like loops, OOPs, and arrays.
-- **DSA**: Implementation of key data structures like linked lists, trees, and graphs.
-- **Problems**: Solved coding problems categorized by topic.
-- **Projects**: Small projects using Java and DSA concepts.
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![DSA](https://img.shields.io/badge/Focus-DSA-orange)
+![GitHub](https://img.shields.io/github/last-commit/your-username/Java-DSA)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-green)
+
+Welcome to my **Java with DSA** repository! This project showcases my learning journey with **Java** and its application in solving **Data Structures and Algorithms (DSA)**.
+
+---
+
+## 📚 Introduction
+
+This repository includes:
+- Core **Java Basics**, including loops, OOPs, and arrays.
+- Essential **Data Structures and Algorithms** with Java implementations.
+- A growing collection of **Problems**, including solved and unsolved challenges.
+- **Projects** showcasing Java-based solutions and applications.
+
+Whether you're preparing for coding interviews, brushing up on Java, or showcasing your skills to recruiters, this repository is a great place to learn and demonstrate your knowledge!
+
+---
 
 ## 🌟 Features
 - Well-documented code with comments.
@@ -35,29 +49,6 @@ Welcome to my Java with DSA repository! This project showcases my learning journ
 Feel free to fork this repository, suggest improvements, or solve problems collaboratively!
 
 
-# Java DSA Journey 🚀
-
-![Java](https://img.shields.io/badge/Language-Java-blue)
-![DSA](https://img.shields.io/badge/Focus-DSA-orange)
-![GitHub](https://img.shields.io/github/last-commit/your-username/Java-DSA)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-green)
-
-Welcome to my **Java with DSA** repository! This project showcases my learning journey with **Java** and its application in solving **Data Structures and Algorithms (DSA)**.
-
----
-
-## 📚 Introduction
-
-This repository includes:
-- Core **Java Basics**, including loops, OOPs, and arrays.
-- Essential **Data Structures and Algorithms** with Java implementations.
-- A growing collection of **Problems**, including solved and unsolved challenges.
-- **Projects** showcasing Java-based solutions and applications.
-
-Whether you're preparing for coding interviews, brushing up on Java, or showcasing your skills to recruiters, this repository is a great place to learn and demonstrate your knowledge!
-
----
-
 ## 📂 Table of Contents
 
 1. [Introduction](#introduction)
@@ -68,7 +59,27 @@ Whether you're preparing for coding interviews, brushing up on Java, or showcasi
 6. [How to Use This Repository](#how-to-use-this-repository)
 7. [Contribute](#contribute)
 
----
+## Introduction
+This is where the introduction goes.
+
+## Badges
+This section contains badges.
+
+## Visualizations
+This section contains any visualizations.
+
+## Folder Structure
+Here is the folder structure description.
+
+## Progress Log
+Keep track of progress here.
+
+## How to Use This Repository
+Here are the instructions on how to use the repository.
+
+## Contribute
+Information on how to contribute to this repository.
+
 
 ## 🏷️ Badges
 
@@ -99,3 +110,14 @@ Here’s how the repository is structured:
 - **[Projects](Projects/)**: Small Java projects applying DSA concepts.
 
 ### Example Folder Structure:
+
+
+
+## 📂 Repository Commit Stats
+
+This section displays the latest commit statistics for this repository. The stats are manually updated.
+
+### Latest Commit Stats:
+<!-- Include the stats report here -->
+For detailed commit statistics, check out the [Commit Stats Report](stats_report.md).
+
