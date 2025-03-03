@@ -1,5 +1,6 @@
-public class LoopBasics{
+public class LoopBasics {
     public static void main(String[] args) {
-        System.out.println("Hii Baby Love You");
+        //Print the sum of digits 
+        System.out.println("Hello Amit");
     }
 }
