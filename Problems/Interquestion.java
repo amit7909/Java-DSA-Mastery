@@ -29,8 +29,12 @@ public class Interquestion {
         a = a-b;
         System.out.println("After swapping a:" +a+ "b is :"+b);
 
+        //03.printthe sum of n natural number.
 
+        System.out.print("Enter a Natural Number:" );
+        int n = sc.nextInt();
 
-
+        int sum = n*(n+1)/2;
+        System.out.print(sum);
     }
 }
